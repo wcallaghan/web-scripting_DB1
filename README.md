@@ -1,5 +1,4 @@
-# web-scripting_DB1
-<!DOCTYPE HTML>
+
 <HTML>
 	<HEAD>
 	<title>Will Callaghan</title>
